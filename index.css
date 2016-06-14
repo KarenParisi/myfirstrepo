@@ -1,0 +1,39 @@
+h1 {
+	color:purple;
+	background: yellow;
+	text-align: center;
+	position: fixed-top;
+}
+ul li {
+	background: yellow;
+	display: inline;
+
+}
+ol li {
+	display: inline;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+#red {
+	background: red;
+	margin-left: 200px;
+}
+
+#blue {
+	background: blue;
+	margin: 75px;
+}
+#green {
+	background: green;
+	}
+#right {
+	margin: 700px;
+}
+ol {
+	font-size: 45px;
+	font-family: verdana;
+	font-style: bold;
+}
+
+	
